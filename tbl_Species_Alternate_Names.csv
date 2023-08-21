@@ -1,0 +1,314 @@
+﻿Species_ID,Alternate_Name,Alternate_Type,Updated_Date,Update_By,Update_Notes
+20200813140240-106090843.677521,CRHO,Species Code,2021-12-01,Lauren Smith,Updated species code to match common name
+20200813140240-106090843.677521,Crested Honeycreeper,Common Name,,,
+20200813140240-116696000.099182,Catoptrophorus semipalmatus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-120618224.143982,PISN,Species Code,2021-12-01,Lauren Smith,IBP 7/22/21: updated species code
+20200813140240-121775448.322296,Catharacta maccormicki,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-143419384.95636,Large Kauai Thrush,Common Name,,,
+20200813140240-144606828.689575,LADU,Species Code,2021-12-01,Lauren Smith,Changed species code from LADU to LAYD according to IDP 7/22/21 update
+20200813140240-144606828.689575,Laysan Teal,Common Name,,,
+20200813140240-149859845.638275,Leach's Storm-Petrel,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name"
+20200813140240-149859845.638275,Oceanodroma leucorhoa,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name"
+20200813140240-149983108.043671,Hawaiian Crow,Common Name,,,
+20200813140240-163373708.724976,Anas crecca,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-166377544.403076,Brown Booby,Common Name,,,
+20200813140240-168473660.945892,Clytorhynchus vitiensis,Scientific Name,2019-03-21,Kelly Kozar,
+20200813140240-168473660.945892,SASH,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name and common name; updated species code to match. Kelly Kozar had previously changed it on 3/21/19 to make it it's own species, according to BNA."
+20200813140240-168473660.945892,Samoan Shrikebill,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name and common name; updated species code to match. Kelly Kozar had previously changed it on 3/21/19 to make it it's own species, according to BNA."
+20200813140240-168473660.945892,Clytorhynchus powelli,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name and common name; updated species code to match. Kelly Kozar had previously changed it on 3/21/19 to make it it's own species, according to BNA."
+20200813140240-168473660.945892,Fiji Shrikebill,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-169404625.892639,Padda oryzivora,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-169404625.892639,Lonchura oryzivora,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: changed genus name back to Padda
+20200813140240-171311259.269714,Larus atricilla,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-187470495.700836,Moa,Common Name,,,
+20200813140240-187470495.700836,Chicken,Common Name,,,
+20200813140240-189106702.804565,Gray Francolin,Common Name,2019-11-20,Kelly Kozar,
+20200813140240-189106702.804565,Francolinus pondicerianus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-190780341.625214,Gray Swiftlet,Common Name,,,
+20200813140240-190780341.625214,Uniform Swiftlet,Common Name,,,
+20200813140240-190780341.625214,Guam Swiftlet,Common Name,2021-12-01,Lauren Smith,IOC v11.2: changed common name to Mariana Swiftlet; updated species code from GUSW to MASW
+20200813140240-190780341.625214,GUSW,Species Code,2021-12-01,Lauren Smith,IOC v11.2: changed common name to Mariana Swiftlet; updated species code from GUSW to MASW
+20200813140240-190780341.625214,Island Swiftlet,Common Name,,,
+20200813140240-191654741.764069,Sterna sandvicensis,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-216646969.31839,Porzana palmeri,Scientific Name,2021-12-01,Lauren Smith,IOC 11.2: updated genus
+20200813140240-21821320.0569153,Sterna antillarum,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-218846976.75705,ERFR,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated common name, updated species code to match. IBP still uses Erckel's Francolin"
+20200813140240-218846976.75705,Erckel's Francolin,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated common name, updated species code to match. IBP still uses Erckel's Francolin"
+20200813140240-218846976.75705,Francolinus erckelii,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-221696615.219116,English Sparrow,Common Name,,,
+20200813140240-228228032.588959,Lesser Golden-Plover,Common Name,,,
+20200813140240-228228032.588959,Pacific Golden-Plover,Common Name,2021-09-16,Kelly Kozar,"There shouldn't be a ""-"" in the common name.  Removed."
+20200813140240-228228032.588959,American Golden-Plover,Common Name,,,
+20200813140240-232759296.894073,Warbling Silverbill,Common Name,,,
+20200813140240-232759296.894073,Lonchura malabarica,Scientific Name,2019-12-03,Kelly Kozar,
+20200813140240-235228896.141052,Ceryle alcyon,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-236260056.495667,Red Footed Booby,Common Name,,,
+20200813140240-238475561.141968,SSEA,Species Code,2021-12-01,Lauren Smith,Changed species code to STSE
+20200813140240-242420077.323914,Anas clypeata,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-243263900.279999,Molokai Creeper,Common Name,,,
+20200813140240-246010303.497314,Sterna albifrons,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-252339661.121368,Polynesian Wattled-Honeyeater,Common Name,2021-12-01,Lauren Smith,IOC v11.2: took hyphen out
+20200813140240-252339661.121368,Iao,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-252339661.121368,Wattled Honeyeater,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-252809464.931488,Christmas Island Shearwater,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated common name, and updated species code according to IBP 7/22/21"
+20200813140240-252809464.931488,CISH,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated common name, and updated species code according to IBP 7/22/21"
+20200813140240-253237068.653107,Rough-legged Hawk,Common Name,2021-12-01,Lauren Smith,IOC v11.2: changed common name to Rough-legged Buzzard and updated species code to match.
+20200813140240-253237068.653107,RLHA,Species Code,2021-12-01,Lauren Smith,IOC v11.2: changed common name to Rough-legged Buzzard and updated species code to match.
+20200813140240-253927826.881409,Osprey,Common Name,2019-11-20,Kelly Kozar,
+20200813140240-259472072.124481,Polynesion Starling,Common Name,,,
+20200813140240-271086990.833282,BKIT,Species Code,2021-12-01,Lauren Smith,Changed species code to BLAK
+20200813140240-273040950.298309,Friendly Ground Dove,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-273040950.298309,Gallicolumba stairi,Scientific Name,2019-03-21,Kelly Kozar,
+20200813140240-273040950.298309,Alopecoenas stairi,Scientific Name,2020-01-31,Kelly Kozar,
+20200813140240-275678575.03891,Green Solitaire,Common Name,,,
+20200813140240-275678575.03891,Hemignathus sagittirostris,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-275899887.084961,Tiaris olivacea,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-279563188.552856,Chen caerulescens,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated genus to Anser
+20200813140240-280662655.830383,Brazilian Cardinal,Common Name,,,
+20200813140240-284174740.314484,European Wigeon,Common Name,,,
+20200813140240-284174740.314484,Anas penelope,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: Changed scientific name from Anas penelope to Mareca penelope.
+20200813140240-296122312.545776,Ooaa,Common Name,,,
+20200813140240-298784852.027893,Hemignathus ellisianus lanaiensis,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: separated into different species, new common name, updated species code to match"
+20200813140240-298784852.027893,Lanai Akialoa,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: separated into different species, new common name, updated species code to match"
+20200813140240-298784852.027893,LAAK,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: separated into different species, new common name, updated species code to match"
+20200813140240-303595900.535583,Hawaiian Hawk,Common Name,,,
+20200813140240-303595900.535583,HWAH,Species Code,2021-12-01,Lauren Smith,Changed species code to HAWH
+20200813140240-305721104.14505,CHMA,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated common name; updated species code to match, according to IDP 7/22/21 after split of Tricolored Munia (L. malacca). We have L. atricapilla in Hawaii"
+20200813140240-305721104.14505,Black-Headed Munia,Common Name,,,
+20200813140240-305721104.14505,Chestnut Mannikin,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated common name; updated species code to match, according to IDP 7/22/21 after split of Tricolored Munia (L. malacca). We have L. atricapilla in Hawaii"
+20200813140240-305721104.14505,Black-Headed Mannikin,Common Name,,,
+20200813140240-305721104.14505,Lonchura malacca,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated common name; updated species code to match, according to IDP 7/22/21 after split of Tricolored Munia (L. malacca). We have L. atricapilla in Hawaii"
+20200813140240-305721104.14505,Chestnut Munia,Common Name,,,
+20200813140240-307122290.13443,Common Canary,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: changed common name to Atlantic and updated species code. IDP doesn't agree (calls it Island Canary, ISCA)."
+20200813140240-307122290.13443,COCA,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: changed common name to Atlantic and updated species code. IDP doesn't agree (calls it Island Canary, ISCA)."
+20200813140240-307122290.13443,Canary,Common Name,,,
+20200813140240-311926186.084747,Black-bellied Plover,Common Name,2019-11-20,Kelly Kozar,
+20200813140240-311926186.084747,Gray Plover,Common Name,,,
+20200813140240-311926186.084747,BBPL,Species Code,2019-11-20,Kelly Kozar,
+20200813140240-318374812.602997,Anas strepera,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated genus to Mareca
+20200813140240-336458563.804626,GRAT,Species Code,2021-12-01,Lauren Smith,IOC v11.2: updated scientific and common names; updated species code to match. IBP doesn't agree on common name.
+20200813140240-336458563.804626,Gray-backed Tern,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific and common names; updated species code to match. IBP doesn't agree on common name.
+20200813140240-336458563.804626,Sterna lunata,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific and common names; updated species code to match. IBP doesn't agree on common name.
+20200813140240-340357959.270477,Sky Lark,Common Name,2021-02-05,Kelly Kozar,"Changed back to Eurasian Skylark, which is what is in IOC v10.2.  Not sure why it was changed to begin with."
+20200813140240-340357959.270477,SKLA,Species Code,2021-02-05,Kelly Kozar,Updated species code to match updated common name.
+20200813140240-341230511.665344,Pterodroma arminjoniana,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: separated three species that were formerly conspecific, updated scientific name for species in Pacific"
+20200813140240-34356594.0856934,Shama Thrush,Common Name,,,
+20200813140240-352186679.840088,Hawaiian Noddy,Common Name,,,
+20200813140240-352186679.840088,White-Capped Noddy,Common Name,,,
+20200813140240-354580998.420715,White-fronted Goose,Common Name,,,
+20200813140240-358102619.64798,Loxops coccineus wolstenholmei,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: separated Akepa into different species
+20200813140240-358337044.715881,Cattle Egret,Common Name,2019-11-20,Kelly Kozar,
+20200813140240-358874201.774597,Mew Gull,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name; updated species code according to IBP 7/22/21
+20200813140240-358874201.774597,MEGU,Species Code,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name; updated species code according to IBP 7/22/21
+20200813140240-359024584.293365,Hemignathus ellisianus ellisianus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated genus
+20200813140240-361605405.807495,COPE,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated common name, updated species code to match according to IBP 7/22/21"
+20200813140240-361605405.807495,Common Peafowl,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated common name, updated species code to match according to IBP 7/22/21"
+20200813140240-376813054.084778,Chlidonias hybridus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name; updated species code according to IBP 7/22/21
+20200813140240-376813054.084778,WTER,Species Code,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name; updated species code according to IBP 7/22/21
+20200813140240-3828823.56643677,Bristle-thighed Curlew,Common Name,,,
+20200813140240-384354770.183563,Phalaropus fulicaria,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-385626971.721649,ORAW,Species Code,2021-12-01,Lauren Smith,Changed species code according to IDP 7/22/2021 update
+20200813140240-394084393.978119,Sterna nilotica,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-400894284.248352,Purple-Capped Fruit-Dove,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-400894284.248352,Manutagi,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-408501565.45639,Pale-footed Shearwater,Common Name,,,
+20200813140240-409051597.118378,Common Noddy,Common Name,,,
+20200813140240-414226233.959198,RPHE,Species Code,2021-12-01,Lauren Smith,Updated species code to match IBP 7/22/21
+20200813140240-421145558.357239,Lanai Thrush,Common Name,,,
+20200813140240-429608345.031738,Numenius phaeopus,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: split Hudsonian Whimbrel from Eurasian Whimbrel, and Pacific is most likely to get Hudsonian. Updated scientific and common names, and species code to match. IBP doesn't recognize split yet."
+20200813140240-429608345.031738,Whimbrel,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: split Hudsonian Whimbrel from Eurasian Whimbrel, and Pacific is most likely to get Hudsonian. Updated scientific and common names, and species code to match. IBP doesn't recognize split yet."
+20200813140240-429608345.031738,WHIM,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: split Hudsonian Whimbrel from Eurasian Whimbrel, and Pacific is most likely to get Hudsonian. Updated scientific and common names, and species code to match. IBP doesn't recognize split yet."
+20200813140240-430223345.756531,Allied Shearwater,Common Name,,,
+20200813140240-430560648.441315,Chinese Thrush,Common Name,,,
+20200813140240-430560648.441315,MELT,Species Code,2021-09-16,Kelly Kozar,The institute for bird populations has species code as HWAM.
+20200813140240-430560648.441315,Hwamei,Common Name,2021-09-16,Kelly Kozar,IOC 11.2:  Change English name of Garrulax canorus from Hwamei to Chinese Hwamei re split of G. taewanus.
+20200813140240-430560648.441315,Melodious Laughing-thrush,Common Name,,,
+20200813140240-433447718.6203,BANP,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name; updated species code based on IDP 7/22/21"
+20200813140240-433447718.6203,Harcourt's Storm-Petrel,Common Name,,,
+20200813140240-433447718.6203,Hawaiian Storm-Petrel,Common Name,,,
+20200813140240-433447718.6203,Band-rumped Storm-Petrel,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name; updated species code based on IDP 7/22/21"
+20200813140240-433447718.6203,Oceanodroma castro,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name; updated species code based on IDP 7/22/21"
+20200813140240-43479919.4335938,Spatula discors,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: changed species name to Spatula discors
+20200813140240-43479919.4335938,Anas discors,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2
+20200813140240-442363619.804382,HARD,Species Code,2021-12-01,Lauren Smith,Changed species code according to IDP 7/22/2021 update
+20200813140240-442714810.371399,Heteroscelus incanus,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-448462545.871735,Oldsquaw,Common Name,,,
+20200813140240-448462545.871735,OLDS,Species Code,2021-12-01,Lauren Smith,Updated species code to match updated common name. (OLDS -> LTDU)
+20200813140240-464043498.039246,Puffinus griseus,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-477552711.963654,Mao,Common Name,,,
+20200813140240-478175163.269043,SHOS,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, Updated species code to IBP 7/22/21"
+20200813140240-478175163.269043,Puffinus tenuirostris,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, Updated species code to IBP 7/22/21"
+20200813140240-478175163.269043,Slender-billed Shearwater,Common Name,,,
+20200813140240-480916917.324066,Maui Creeper,Common Name,,,
+20200813140240-481337189.674377,Anas americana,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: changed species name to Mareca americana
+20200813140240-481562137.60376,Oahu Creeper,Common Name,,,
+20200813140240-490782856.941223,Red-eared Waxbill,Common Name,,,
+20200813140240-490782856.941223,BRWX,Species Code,2021-12-01,Lauren Smith,Changed species code from BRWX to BLRW according to IDP 7/22/2021
+20200813140240-492901861.667633,Blue-faced Booby,Common Name,,,
+20200813140240-492901861.667633,Masked Booby,Common Name,,,
+20200813140240-494415640.830994,Carduelis flammea,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: changed genus name to Acanthis
+20200813140240-496155500.411987,Strawberry Finch,Common Name,,,
+20200813140240-496155500.411987,Red Munia,Common Name,,,
+20200813140240-500558614.730835,Blue-crowned Lorikeet,Common Name,,,
+20200813140240-519212782.382965,Green Singing-Finch,Common Name,,,
+20200813140240-523617565.631866,Molokai Thrush,Common Name,,,
+20200813140240-532368838.787079,GRFR,Species Code,2021-12-01,Lauren Smith,Changed species code according to IDP 7/22/2021 update
+20200813140240-544837415.218353,Purple Swamphen,Common Name,2021-02-05,Kelly Kozar,"IOC 10.2: Change English name of Purple Swamphen to Western Swamphen, following splits (5.3) of this species complex (Sangster 1998; Garcia-R & Trewick 2015)."
+20200813140240-544837415.218353,PUSW,Species Code,2021-02-23,Kelly Kozar,IOC 11.1:  Australian Swamphen is split from Western [Purple] Swamphen P. porphyrio (Sangster 1998; Garcia-R & Trewick 2015).  Australian Swamphen is the species found in American Samoa.
+20200813140240-544837415.218353,Porphyrio porphyrio,Scientific Name,2021-02-23,Kelly Kozar,IOC 11.1:  Australian Swamphen is split from Western [Purple] Swamphen P. porphyrio (Sangster 1998; Garcia-R & Trewick 2015).  Australian Swamphen is the species found in American Samoa.
+20200813140240-544837415.218353,Western Swamphen,Common Name,2021-02-23,Kelly Kozar,IOC 11.1:  Australian Swamphen is split from Western [Purple] Swamphen P. porphyrio (Sangster 1998; Garcia-R & Trewick 2015).  Australian Swamphen is the species found in American Samoa.
+20200813140240-546981692.314148,Hemignathus ellisianus procerus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: separated Akialoa into different species
+20200813140240-549597144.126892,Anas cyanoptera,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: changed species name to Spatula cyanoptera
+20200813140240-551584839.820862,CPOC,Species Code,2021-12-01,Lauren Smith,Changed species code according to IDP 7/22/2021 update
+20200813140240-563806712.627411,Nene,Common Name,,,
+20200813140240-566018521.785736,Jungle Myna,Common Name,,,
+20200813140240-567133069.038391,SBGU,Species Code,2021-12-01,Lauren Smith,Updated species code according to IBP 7/22/21
+20200813140240-571528732.776642,Circus cyaneus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: changed species name to C. hudsonius following split
+20200813140240-572213411.331177,Wilson's Storm-Petrel,Common Name,2021-12-01,Lauren Smith,IOC v11.2: took hyphen out
+20200813140240-577929019.927979,Olive Green Creeper,Common Name,,,
+20200813140240-580098927.021027,Hemignathus lucidus hanapepe,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: separated Nukupuu into different species
+20200813140240-58106780.0521851,Larus pipixcan,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-593477308.750153,American Coot,Common Name,,,
+20200813140240-599859952.926636,Kauai Akepa,Common Name,,,
+20200813140240-60996949.672699,Kauai Creeper,Common Name,,,
+20200813140240-610244154.930115,Philomachus pugnax,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-615529000.759125,Lupe,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-615529000.759125,Pacific Pigeon,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-616519987.58316,Long-Tailed Cuckoo,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-616519987.58316,Eudynamis taitensis,Scientific Name,2019-03-21,Kelly Kozar,
+20200813140240-62670469.2840576,Short-eared Owl,Common Name,,,
+20200813140240-627237737.178802,Black-necked Stilt,Common Name,2021-12-01,Lauren Smith,IBP 7/22/21: updated common name and species code
+20200813140240-627237737.178802,Hawaiian Stilt,Common Name,,,
+20200813140240-627237737.178802,BNST,Species Code,2021-12-01,Lauren Smith,IBP 7/22/21: updated common name and species code
+20200813140240-629834711.551666,Todiramphus chloris,Scientific Name,2019-03-21,Kelly Kozar,
+20200813140240-629834711.551666,White Collared Kingfisher,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-632272064.685822,Sooty Storm-Petrel,Common Name,,,
+20200813140240-632272064.685822,Oceanodroma tristrami,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name"
+20200813140240-632272064.685822,Tristram's Storm-Petrel,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name, took hyphen out of common name"
+20200813140240-632621347.904205,BARA,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific and common names, updated species code to match."
+20200813140240-632621347.904205,Banded Rail,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific and common names, updated species code to match."
+20200813140240-632621347.904205,Gallirallus philippensis,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific and common names, updated species code to match."
+20200813140240-632621347.904205,Banded Rail,Common Name,,,
+20200813140240-640410900.115967,LALB,Species Code,2021-12-01,Lauren Smith,Changed species code according to IDP 7/22/2021 update
+20200813140240-641774833.202362,Lace-necked Dove,Common Name,,,
+20200813140240-641774833.202362,Chinese Dove,Common Name,,,
+20200813140240-641774833.202362,Streptopelia chinensis,Scientific Name,2021-09-16,Kelly Kozar,IOC 11.2: Separate Spotted Dove and Laughing Dove from Streptopelia at the generic level (Cheke 2005; BLI) based on the phylogenetic analysis of Johnson et al. (2001). Spilopelia has precedence over Stigmatopelia for this clade (Schodde 1997).
+20200813140240-644020497.79892,Many-Colored Fruit Dove,Common Name,,,
+20200813140240-65240740.776062,Bewick's Swan,Common Name,,,
+20200813140240-65240740.776062,Whistling Swan,Common Name,,,
+20200813140240-658487200.737,Great Crested Tern,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updates scientific and common names
+20200813140240-658487200.737,Sterna bergii,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updates scientific and common names
+20200813140240-659886538.982391,Fairy-Tern,Common Name,,,
+20200813140240-659886538.982391,WHTE,Species Code,2021-12-01,Lauren Smith,Updated species code according to IBP 7/22/21
+20200813140240-659886538.982391,Common Fairy-Tern,Common Name,,,
+20200813140240-66083729.2671204,Barn Owl,Common Name,2021-08-25,Kelly Kozar,"Change English name of Tyto alba to Western Barn Owl with split of Tyto javanica and T. furcata. Gill, F, D Donsker, and P Rasmussen (Eds). 2021. IOC World Bird List (v 11.1). Doi 10.14344/IOC.ML.11.1.  http://www.worldbirdnames.org/"
+20200813140240-66083729.2671204,BNOW,Species Code,2021-12-01,Lauren Smith,"Change species to American Barn Owl T. furcata with split of Tyto javanica and T. alba. Update species code to match. Barn owls were introduced to Hawaii from California, so they are T. furcata."
+20200813140240-66083729.2671204,Tyto alba,Scientific Name,2021-12-01,Lauren Smith,"Change species to American Barn Owl T. furcata with split of Tyto javanica and T. alba. Update species code to match. Barn owls were introduced to Hawaii from California, so they are T. furcata."
+20200813140240-66083729.2671204,Western Barn Owl,Common Name,2021-12-01,Lauren Smith,"Change species to American Barn Owl T. furcata with split of Tyto javanica and T. alba. Update species code to match. Barn owls were introduced to Hawaii from California, so they are T. furcata."
+20200813140240-664163231.84967,Grus canadensis,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-670191466.808319,Yamagara,Common Name,,,
+20200813140240-670191466.808319,Japanese Tit,Common Name,,,
+20200813140240-670191466.808319,Parus varius,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-671124100.68512,Green-backed Heron,Common Name,,,
+20200813140240-6724953.65142822,Puffinus auricularis newelli,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: NESH is it's own species now. Updates all names to match.
+20200813140240-6724953.65142822,Townsend's Shearwater,Common Name,2021-12-01,Lauren Smith,IOC v11.2: NESH is it's own species now. Updates all names to match.
+20200813140240-6724953.65142822,TOSH,Species Code,2021-12-01,Lauren Smith,IOC v11.2: NESH is it's own species now. Updates all names to match.
+20200813140240-676675975.322723,Barred Dove,Common Name,,,
+20200813140240-690717041.492462,CAGO,Species Code,2021-12-01,Lauren Smith,Changed species code according to IDP 7/22/2021 update
+20200813140240-695740044.116974,Lesser Amakihi,Common Name,,,
+20200813140240-695740044.116974,Hemignathus parvus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-700392484.664917,Hemignathus lucidus lucidus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: separated Nukupuu into different species
+20200813140240-726368486.881256,Perkins Mamo,Common Name,,,
+20200813140240-734410107.135773,Puffinus pacificus chlororhynchus,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-739849328.994751,Small Kauai Thrush,Common Name,,,
+20200813140240-757366120.815277,Green Pheasant,Common Name,,,
+20200813140240-757366120.815277,Common Pheasant,Common Name,,,
+20200813140240-764403402.805328,Myadestes woahensis,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: has amaui lumped with Olomao as a subspecies. Updated scientific and common names and species code to match.
+20200813140240-764403402.805328,Oahu Thrush,Common Name,,,
+20200813140240-764403402.805328,AMAU,Species Code,2021-12-01,Lauren Smith,IOC v11.2: has amaui lumped with Olomao as a subspecies. Updated scientific and common names and species code to match.
+20200813140240-764403402.805328,Amaui,Common Name,2021-12-01,Lauren Smith,IOC v11.2: has amaui lumped with Olomao as a subspecies. Updated scientific and common names and species code to match.
+20200813140240-770453572.273254,Phalacrocorax pelagicus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-777162134.647369,Sterna fuscata oahuensis,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-777261734.008789,Uguisu,Common Name,,,
+20200813140240-777261734.008789,Japanese Bush-Warbler,Common Name,2021-09-16,Kelly Kozar,"There shouldn't be a ""-"" in the common name.  Removed."
+20200813140240-777806401.252747,MONP,Species Code,2021-12-01,Lauren Smith,IOC v11.2: updated common name and species code to match
+20200813140240-777806401.252747,Mongolian Plover,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated common name and species code to match
+20200813140240-778678774.833679,Samoan Starling,Common Name,,,
+20200813140240-788706898.68927,Actitis macularia,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-798204660.415649,Pterodroma phaeopygia sandwichensis,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-798204660.415649,Hawaiian Petrel,Common Name,,,
+20200813140240-798204660.415649,DRPE,Species Code,2019-11-20,Kelly Kozar,
+20200813140240-798204660.415649,Dark-rumped Petrel,Common Name,2019-11-20,Kelly Kozar,
+20200813140240-802053570.747375,Chasiempis sandwichensis ibidis,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name. Elepaio are split
+20200813140240-816770374.774933,Spotted Munia,Common Name,,,
+20200813140240-816770374.774933,Ricebird,Common Name,,,
+20200813140240-816770374.774933,Nutmeg Mannikin,Common Name,,,
+20200813140240-822227001.190186,Chen canagica,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name to Anser canagicus
+20200813140240-825443744.659424,Sterna caspia,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-833886265.7547,BATG,Species Code,2021-12-01,Lauren Smith,IBP 7/22/21: updated species code
+20200813140240-837038218.975067,Kentucky Cardinal,Common Name,,,
+20200813140240-837038218.975067,American Cardinal,Common Name,,,
+20200813140240-838469684.123993,AMPI,Species Code,2021-12-01,Lauren Smith,IOC v11.2: updated common name; updated species code to match. IBP still uses American Pipit
+20200813140240-838469684.123993,American Pipit,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated common name; updated species code to match. IBP still uses American Pipit
+20200813140240-843659222.126007,Tryngites subruficollis,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-849608838.558197,Cardinal Myzomela,Common Name,2022-09-28,Kim Weisenborn,Changed based on Seth Judge's latest report (Judge et al. 2022 Status of Landbirds in the National Park of American Samoa.)
+20200813140240-849608838.558197,CAMY,Species Code,2022-09-28,Kim Weisenborn,Changed based on species name update and conversation with Seth Judge.
+20200813140240-849608838.558197,Cardinal Honeyeater,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-849608838.558197,Segasegamau'u,Common Name,2019-03-21,Kelly Kozar,
+20200813140240-849608838.558197,Myzomela cardinalis,Scientific Name,2022-09-28,Kim Weisenborn,Changed based on information from Seth Judge that the species is now identified as a unique population in the Solomon Islands.
+20200813140240-849981307.983398,"Chasiempis sandwichensis sandwichensis, ridgwayi, bryani",Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name. Elepaio are split
+20200813140240-854553878.307343,Melanitta nigra,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: common name was mixed up; updated scientific name to Melanitta americana
+20200813140240-854835569.858551,Oceanodroma furcata,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scienfitic name, took hyphen out of common name"
+20200813140240-854835569.858551,Fork-tailed Storm-Petrel,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scienfitic name, took hyphen out of common name"
+20200813140240-8572578.43017578,GRFH,Species Code,2021-12-01,Lauren Smith,IOC v11.2: Changed common name to Chinese Sparrowhawk and updated species code to match
+20200813140240-8572578.43017578,Gray Frog-Hawk,Common Name,2021-12-01,Lauren Smith,IOC v11.2: Changed common name to Chinese Sparrowhawk and updated species code to match
+20200813140240-866175711.154938,SHAS,Species Code,2021-12-01,Lauren Smith,IBP 7/22/21: updated species code
+20200813140240-868519425.392151,Hemignathus lucidus affinis,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: separated Nukupuu into different species
+20200813140240-871054172.515869,Chasiempis sandwichensis sclateri,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name. Elepaio are split
+20200813140240-871533870.697021,Linnet,Common Name,,,
+20200813140240-876381456.851959,Kolao,Common Name,,,
+20200813140240-879405021.66748,European Starling,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated common name. IBP still has European
+20200813140240-879925608.634949,Larus philadelphia,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-885499238.967896,Kiwikiu,Common Name,2022-01-21,Kelly Kozar,Hawaiian name added as alternative name.
+20200813140240-887522280.216217,Penkin Nightingale,Common Name,,,
+20200813140240-887522280.216217,Japanese Hill-robin,Common Name,,,
+20200813140240-889593303.203583,Larus ridibundus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-9026825.42800903,Anas querquedula,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated genus to Spatula
+20200813140240-913782417.7742,Hawaiian Gallinule,Common Name,,,
+20200813140240-913782417.7742,Gallinula chloropus,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name and common name, updated species code to match IBP 7/22/21. Hawaiian Gallinule was found to be Common Gallinule, not Common Moorhen"
+20200813140240-913782417.7742,Common Moorhen,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name and common name, updated species code to match IBP 7/22/21. Hawaiian Gallinule was found to be Common Gallinule, not Common Moorhen"
+20200813140240-913782417.7742,COMO,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific name and common name, updated species code to match IBP 7/22/21. Hawaiian Gallinule was found to be Common Gallinule, not Common Moorhen"
+20200813140240-916336119.174957,Hemignathus obscurus,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-925527334.213257,Scaled Petrel,Common Name,,,
+20200813140240-928086817.264557,Eared Grebe,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated common name and species code to match. IBP still uses Eared Grebe
+20200813140240-928086817.264557,EAGR,Species Code,2021-12-01,Lauren Smith,IOC v11.2: updated common name and species code to match. IBP still uses Eared Grebe
+20200813140240-930533409.118652,Hawaii Thrush,Common Name,,,
+20200813140240-941978275.775909,JAWE,Species Code,2020-02-11,Kelly Kozar,
+20200813140240-941978275.775909,Mejiro,Common Name,,,
+20200813140240-941978275.775909,Japanese White-eye,Common Name,2020-02-11,Kelly Kozar,
+20200813140240-94380795.955658,Porzana sandwichensis,Scientific Name,2021-12-01,Lauren Smith,IOC 11.2: updated genus
+20200813140240-955700814.723969,Gray-backed Shearwater,Common Name,,,
+20200813140240-955700814.723969,New Zealand Shearwater,Common Name,,,
+20200813140240-958833694.458008,Blue-gray Noddy,Common Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific and common names; updated species code. IBP still calls it Blue-gray Noddy BGNO, but IOC doesn't agree."
+20200813140240-958833694.458008,Necker Island Tern,Common Name,,,
+20200813140240-958833694.458008,Gray Noddy,Common Name,,,
+20200813140240-958833694.458008,Procelsterna cerulea,Scientific Name,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific and common names; updated species code. IBP still calls it Blue-gray Noddy BGNO, but IOC doesn't agree."
+20200813140240-958833694.458008,BGNO,Species Code,2021-12-01,Lauren Smith,"IOC v11.2: updated scientific and common names; updated species code. IBP still calls it Blue-gray Noddy BGNO, but IOC doesn't agree."
+20200813140240-959411323.070526,White-rumped Swiftlet,Common Name,,,
+20200813140240-967085242.271423,Reef Heron,Common Name,2021-12-01,Lauren Smith,IOC v11.2: updated common name
+20200813140240-977298498.153687,Estrilda caerulescens,Scientific Name,2021-12-01,Lauren Smith,IOC v11.2: updated scientific name
+20200813140240-978126049.041748,Porzana tabuensis,Scientific Name,2021-12-01,Lauren Smith,IOC 11.2: updated genus
+20200813140240-978126049.041748,Spotless Crake,Common Name,,,
+20200813140240-9806036.94915771,Chlorodrepanis virens,Scientific Name,2020-11-16,Kelly Kozar,"International Ornithological Congress (IOC) breaks out the Amahiki into subspecies, but the American Ornithological Society (AOS) has them lumped as one species.  The HFBIDP uses IOC names, so our DB will as well, but reports will use species for both."
+20200813140240-9806036.94915771,Maui Amakihi,Common Name,2020-11-16,Kelly Kozar,"IOC breaks out the Amahiki into subspecies, but the common name is the same for both Hawaii and Maui subspecies."
+20200813140240-9806036.94915771,MAAM,Species Code,2020-11-16,Kelly Kozar,Species code HAAM used for both Hawaii and Maui subspecies of Amakihi
+20200813140240-980662047.863007,Greater Necklaced Laughing-thrush,Common Name,2021-12-01,Lauren Smith,"There shouldn't be a ""-"" in the common name. Removed. Updated species code according to IBP"
+20200813140240-980662047.863007,GNLT,Species Code,,,"There shouldn't be a ""-"" in the common name. Removed. Updated species code according to IBP"
+20200813140240-989627242.088318,Chlorodrepanis virens,Scientific Name,2020-11-16,Kelly Kozar,"International Ornithological Congress (IOC) breaks out the Amahiki into subspecies, but the American Ornithological Society (AOS) has them lumped as one species.  The HFBIDP uses IOC names, so our DB will as well, but reports will use species for both."
+20200813140240-990604341.030121,Blue-footed Petrel,Common Name,,,
+20200813140240-990604341.030121,COPT,Species Code,2021-12-01,Lauren Smith,IBP 7/22/21: updated species code
+20200813140240-993691921.234131,Siberian Tattler,Common Name,,,
+20200813140240-993691921.234131,Heteroscelus brevipes,Scientific Name,2019-11-20,Kelly Kozar,
+20200813140240-993691921.234131,Gray-tailed Tattler,Common Name,2019-11-20,Kelly Kozar,
+20200813140240-993691921.234131,Polynesian Tattler,Common Name,,,
+20200813140240-999541819.095612,Herring Gull,Common Name,2019-11-20,Kelly Kozar,
