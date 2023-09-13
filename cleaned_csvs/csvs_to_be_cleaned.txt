@@ -1,0 +1,9 @@
+full_species - species + alt_species
+full_events - events + events_details
+tbl_Detections
+tbl_Habitat
+tbl_Locations
+tbl_Observations
+tbl_Sites
+tbl_Stations
+tbl_Transects
