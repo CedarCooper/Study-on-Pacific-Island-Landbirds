@@ -1,0 +1,314 @@
+,Species_ID,Family,Scientific_Name,Common_Name,Species_Code,Habitat,TSN,Alternate_Name,Alternate_Type
+0,20200813140240-8572578.43017578,Accipritidae,Accipiter soloensis,Chinese Sparrowhawk,CHIS,Forest Bird,175342.0,GRFH,Species Code
+1,20200813140240-8572578.43017578,Accipritidae,Accipiter soloensis,Chinese Sparrowhawk,CHIS,Forest Bird,175342.0,Gray Frog-Hawk,Common Name
+2,20200813140240-253237068.653107,Accipritidae,Buteo lagopus,Rough-legged Buzzard,RLBU,Open Country Bird,175373.0,Rough-legged Hawk,Common Name
+3,20200813140240-253237068.653107,Accipritidae,Buteo lagopus,Rough-legged Buzzard,RLBU,Open Country Bird,175373.0,RLHA,Species Code
+4,20200813140240-303595900.535583,Accipritidae,Buteo solitarius,Io,HAWH,Forest Bird,175394.0,Hawaiian Hawk,Common Name
+5,20200813140240-303595900.535583,Accipritidae,Buteo solitarius,Io,HAWH,Forest Bird,175394.0,HWAH,Species Code
+6,20200813140240-571528732.776642,Accipritidae,Circus hudsonius,Northern Harrier,NOHA,Open Country Bird,175430.0,Circus cyaneus,Scientific Name
+7,20200813140240-238475561.141968,Accipritidae,Haliaeetus pelagicus,Steller's Sea-Eagle,STSE,Marine Bird,175423.0,SSEA,Species Code
+8,20200813140240-271086990.833282,Accipritidae,Milvus migrans,Black Kite,BLAK,Open Country Bird,175469.0,BKIT,Species Code
+9,20200813140240-253927826.881409,Accipritidae,Pandion haliaetus,Western Osprey,OSPR,Open Country Bird,175590.0,Osprey,Common Name
+10,20200813140240-340357959.270477,Alaudidae,Alauda arvensis,Eurasian Skylark,EUSK,Open Country Bird,178398.0,Sky Lark,Common Name
+11,20200813140240-340357959.270477,Alaudidae,Alauda arvensis,Eurasian Skylark,EUSK,Open Country Bird,178398.0,SKLA,Species Code
+12,20200813140240-235228896.141052,Alcedinidae,Megaceryle alcyon,Belted Kingfisher,BEKI,Open Country Bird,178119.0,Ceryle alcyon,Scientific Name
+13,20200813140240-629834711.551666,Alcedinidae,Todiramphus sacer,Pacific Kingfisher,PAKI,Forest/ Urban Bird,,Todiramphus chloris,Scientific Name
+14,20200813140240-629834711.551666,Alcedinidae,Todiramphus sacer,Pacific Kingfisher,PAKI,Forest/ Urban Bird,,White Collared Kingfisher,Common Name
+15,20200813140240-163373708.724976,Anatidae,Anas carolinensis,Green-winged Teal,GWTE,Migratory Waterfowl,175081.0,Anas crecca,Scientific Name
+16,20200813140240-144606828.689575,Anatidae,Anas laysanensis,Laysan Duck,LAYD,Wetland Bird,175119.0,LADU,Species Code
+17,20200813140240-144606828.689575,Anatidae,Anas laysanensis,Laysan Duck,LAYD,Wetland Bird,175119.0,Laysan Teal,Common Name
+18,20200813140240-876381456.851959,Anatidae,Anas wyvilliana,Hawaiian Duck,HAWD,Wetland Bird,175120.0,Kolao,Common Name
+19,20200813140240-354580998.420715,Anatidae,Anser albifrons,Greater White-fronted Goose,GWFG,Open Country Bird,175020.0,White-fronted Goose,Common Name
+20,20200813140240-279563188.552856,Anatidae,Anser caerulescens,Snow Goose,SNGO,Open Country Bird,175038.0,Chen caerulescens,Scientific Name
+21,20200813140240-822227001.190186,Anatidae,Anser canagicus,Emperor Goose,EMGO,Open Country Bird,175042.0,Chen canagica,Scientific Name
+22,20200813140240-551584839.820862,Anatidae,Aythya ferina,Common Pochard,COMP,Migratory Waterfowl,175126.0,CPOC,Species Code
+23,20200813140240-690717041.492462,Anatidae,Branta canadensis,Canada Goose,CANG,Open Country Bird,174999.0,CAGO,Species Code
+24,20200813140240-563806712.627411,Anatidae,Branta sandvicensis,Hawaiian Goose,HAGO,Open Country Bird,175016.0,Nene,Common Name
+25,20200813140240-448462545.871735,Anatidae,Clangula hyemalis,Long-tailed Duck,LTDU,Migratory Waterfowl,175147.0,Oldsquaw,Common Name
+26,20200813140240-448462545.871735,Anatidae,Clangula hyemalis,Long-tailed Duck,LTDU,Migratory Waterfowl,175147.0,OLDS,Species Code
+27,20200813140240-65240740.776062,Anatidae,Cygnus columbianus,Tundra Swan,TUSW,Open Country Bird,174987.0,Bewick's Swan,Common Name
+28,20200813140240-65240740.776062,Anatidae,Cygnus columbianus,Tundra Swan,TUSW,Open Country Bird,174987.0,Whistling Swan,Common Name
+29,20200813140240-442363619.804382,Anatidae,Histrionicus histrionicus,Harlequin Duck,HADU,Migratory Waterfowl,175149.0,HARD,Species Code
+30,20200813140240-481337189.674377,Anatidae,Mareca americana,American Wigeon,AMWI,Migratory Waterfowl,175094.0,Anas americana,Scientific Name
+31,20200813140240-284174740.314484,Anatidae,Mareca penelope,Eurasian Wigeon,EUWI,Migratory Waterfowl,175092.0,European Wigeon,Common Name
+32,20200813140240-284174740.314484,Anatidae,Mareca penelope,Eurasian Wigeon,EUWI,Migratory Waterfowl,175092.0,Anas penelope,Scientific Name
+33,20200813140240-318374812.602997,Anatidae,Mareca strepera,Gadwall,GADW,Migratory Waterfowl,175073.0,Anas strepera,Scientific Name
+34,20200813140240-854553878.307343,Anatidae,Melanitta americana,Black Scoter,BLSC,Migratory Waterfowl,175171.0,Melanitta nigra,Scientific Name
+35,20200813140240-242420077.323914,Anatidae,Spatula clypeata,Northern Shoveler,NSHO,Migratory Waterfowl,175096.0,Anas clypeata,Scientific Name
+36,20200813140240-549597144.126892,Anatidae,Spatula cyanoptera,Cinnamon Teal,CITE,Migratory Waterfowl,175089.0,Anas cyanoptera,Scientific Name
+37,20200813140240-43479919.4335938,Anatidae,Spatula discors,Blue-winged Teal,BWTE,Migratory Waterfowl,175086.0,Spatula discors,Scientific Name
+38,20200813140240-43479919.4335938,Anatidae,Spatula discors,Blue-winged Teal,BWTE,Migratory Waterfowl,175086.0,Anas discors,Scientific Name
+39,20200813140240-9026825.42800903,Anatidae,Spatula querquedula,Garganey,GARG,Migratory Waterfowl,175093.0,Anas querquedula,Scientific Name
+40,20200813140240-190780341.625214,Apodidae,Aerodramus bartschi,Mariana Swiftlet,MASW,Widespread/Urban Bird,554964.0,Gray Swiftlet,Common Name
+41,20200813140240-190780341.625214,Apodidae,Aerodramus bartschi,Mariana Swiftlet,MASW,Widespread/Urban Bird,554964.0,Uniform Swiftlet,Common Name
+42,20200813140240-190780341.625214,Apodidae,Aerodramus bartschi,Mariana Swiftlet,MASW,Widespread/Urban Bird,554964.0,Guam Swiftlet,Common Name
+43,20200813140240-190780341.625214,Apodidae,Aerodramus bartschi,Mariana Swiftlet,MASW,Widespread/Urban Bird,554964.0,GUSW,Species Code
+44,20200813140240-190780341.625214,Apodidae,Aerodramus bartschi,Mariana Swiftlet,MASW,Widespread/Urban Bird,554964.0,Island Swiftlet,Common Name
+45,20200813140240-959411323.070526,Apodidae,Aerodramus spodiopygius,White-rumped Swiftlet,WRSW,Forest Bird,,White-rumped Swiftlet,Common Name
+46,20200813140240-358337044.715881,Ardeidae,Bubulcus ibis,Western Cattle Egret,CAEG,Wetland Bird,174803.0,Cattle Egret,Common Name
+47,20200813140240-671124100.68512,Ardeidae,Butorides virescens,Green Heron,GRHE,Wetland Bird,174793.0,Green-backed Heron,Common Name
+48,20200813140240-967085242.271423,Ardeidae,Egretta sacra,Pacific Reef Heron,REHE,Shorebird,,Reef Heron,Common Name
+49,20200813140240-837038218.975067,Cardinalidae,Cardinalis cardinalis,Northern Cardinal,NOCA,Widespread/Urban Bird,179124.0,Kentucky Cardinal,Common Name
+50,20200813140240-837038218.975067,Cardinalidae,Cardinalis cardinalis,Northern Cardinal,NOCA,Widespread/Urban Bird,179124.0,American Cardinal,Common Name
+51,20200813140240-777806401.252747,Charadriidae,Charadrius mongolus,Lesser Sand Plover,LSAP,Migratory Shorebird,176514.0,MONP,Species Code
+52,20200813140240-777806401.252747,Charadriidae,Charadrius mongolus,Lesser Sand Plover,LSAP,Migratory Shorebird,176514.0,Mongolian Plover,Common Name
+53,20200813140240-228228032.588959,Charadriidae,Pluvialis fulva,Pacific Golden Plover,PAGP,Migratory Shorebird,554381.0,Lesser Golden-Plover,Common Name
+54,20200813140240-228228032.588959,Charadriidae,Pluvialis fulva,Pacific Golden Plover,PAGP,Migratory Shorebird,554381.0,Pacific Golden-Plover,Common Name
+55,20200813140240-228228032.588959,Charadriidae,Pluvialis fulva,Pacific Golden Plover,PAGP,Migratory Shorebird,554381.0,American Golden-Plover,Common Name
+56,20200813140240-311926186.084747,Charadriidae,Pluvialis squatarola,Grey Plover,GRPL,Migratory Shorebird,176567.0,Black-bellied Plover,Common Name
+57,20200813140240-311926186.084747,Charadriidae,Pluvialis squatarola,Grey Plover,GRPL,Migratory Shorebird,176567.0,Gray Plover,Common Name
+58,20200813140240-311926186.084747,Charadriidae,Pluvialis squatarola,Grey Plover,GRPL,Migratory Shorebird,176567.0,BBPL,Species Code
+59,20200813140240-615529000.759125,Colombidae,Ducula pacifica,Pacific Imperial Pigeon,PIPI,Forest Bird,,Lupe,Common Name
+60,20200813140240-615529000.759125,Colombidae,Ducula pacifica,Pacific Imperial Pigeon,PIPI,Forest Bird,,Pacific Pigeon,Common Name
+61,20200813140240-676675975.322723,Columbidae,Geopelia striata,Zebra Dove,ZEBD,Widespread/Urban Bird,177196.0,Barred Dove,Common Name
+62,20200813140240-273040950.298309,Columbidae,Pampusana stairi,Tongan Ground Dove,TGDO,Forest Bird,,Friendly Ground Dove,Common Name
+63,20200813140240-273040950.298309,Columbidae,Pampusana stairi,Tongan Ground Dove,TGDO,Forest Bird,,Gallicolumba stairi,Scientific Name
+64,20200813140240-273040950.298309,Columbidae,Pampusana stairi,Tongan Ground Dove,TGDO,Forest Bird,,Alopecoenas stairi,Scientific Name
+65,20200813140240-644020497.79892,Columbidae,Ptilinopus perousii,Many-colored Fruit Dove,MCFD,Forest Bird,,Many-Colored Fruit Dove,Common Name
+66,20200813140240-400894284.248352,Columbidae,Ptilinopus porphyraceus,Crimson-crowned Fruit Dove,CCFD,Forest Bird,,Purple-Capped Fruit-Dove,Common Name
+67,20200813140240-400894284.248352,Columbidae,Ptilinopus porphyraceus,Crimson-crowned Fruit Dove,CCFD,Forest Bird,,Manutagi,Common Name
+68,20200813140240-641774833.202362,Columbidae,Spilopelia chinensis,Spotted Dove,SPDO,Widespread/Urban Bird,177134.0,Lace-necked Dove,Common Name
+69,20200813140240-641774833.202362,Columbidae,Spilopelia chinensis,Spotted Dove,SPDO,Widespread/Urban Bird,177134.0,Chinese Dove,Common Name
+70,20200813140240-641774833.202362,Columbidae,Spilopelia chinensis,Spotted Dove,SPDO,Widespread/Urban Bird,177134.0,Streptopelia chinensis,Scientific Name
+71,20200813140240-149983108.043671,Corvidae,Corvus hawaiiensis,Alala,HCRO,Forest Bird,179742.0,Hawaiian Crow,Common Name
+72,20200813140240-616519987.58316,Cuculidae,Urodynamis taitensis,Pacific Long-tailed Cuckoo,PLTC,Forest Bird,,Long-Tailed Cuckoo,Common Name
+73,20200813140240-616519987.58316,Cuculidae,Urodynamis taitensis,Pacific Long-tailed Cuckoo,PLTC,Forest Bird,,Eudynamis taitensis,Scientific Name
+74,20200813140240-640410900.115967,Diomedeidae,Phoebastria immutabilis,Laysan Albatross,LAAL,Marine Bird,554378.0,LALB,Species Code
+75,20200813140240-280662655.830383,Emberizidae,Paroaria coronata,Red-crested Cardinal,RCCA,Widespread/Urban Bird,179554.0,Brazilian Cardinal,Common Name
+76,20200813140240-275899887.084961,Emberizidae,Tiaris olivaceus,Yellow-faced Grassquit,YFGR,Widespread/Urban Bird,179163.0,Tiaris olivacea,Scientific Name
+77,20200813140240-496155500.411987,Estrildidae,Amandava amandava,Red Avadavat,REAV,Widespread/Urban Bird,179606.0,Strawberry Finch,Common Name
+78,20200813140240-496155500.411987,Estrildidae,Amandava amandava,Red Avadavat,REAV,Widespread/Urban Bird,179606.0,Red Munia,Common Name
+79,20200813140240-385626971.721649,Estrildidae,Estrilda melpoda,Orange-cheeked Waxbill,OCHW,Widespread/Urban Bird,179612.0,ORAW,Species Code
+80,20200813140240-490782856.941223,Estrildidae,Estrilda troglodytes,Black-rumped Waxbill,BLRW,Widespread/Urban Bird,179613.0,Red-eared Waxbill,Common Name
+81,20200813140240-490782856.941223,Estrildidae,Estrilda troglodytes,Black-rumped Waxbill,BLRW,Widespread/Urban Bird,179613.0,BRWX,Species Code
+82,20200813140240-232759296.894073,Estrildidae,Euodice cantans,African Silverbill,AFSI,Widespread/Urban Bird,179617.0,Warbling Silverbill,Common Name
+83,20200813140240-232759296.894073,Estrildidae,Euodice cantans,African Silverbill,AFSI,Widespread/Urban Bird,179617.0,Lonchura malabarica,Scientific Name
+84,20200813140240-977298498.153687,Estrildidae,Glaucestrilda caerulescens,Lavender Waxbill,LAVW,Widespread/Urban Bird,179611.0,Estrilda caerulescens,Scientific Name
+85,20200813140240-305721104.14505,Estrildidae,Lonchura atricapilla,Chestnut Munia,CHMU,Widespread/Urban Bird,,CHMA,Species Code
+86,20200813140240-305721104.14505,Estrildidae,Lonchura atricapilla,Chestnut Munia,CHMU,Widespread/Urban Bird,,Black-Headed Munia,Common Name
+87,20200813140240-305721104.14505,Estrildidae,Lonchura atricapilla,Chestnut Munia,CHMU,Widespread/Urban Bird,,Chestnut Mannikin,Common Name
+88,20200813140240-305721104.14505,Estrildidae,Lonchura atricapilla,Chestnut Munia,CHMU,Widespread/Urban Bird,,Black-Headed Mannikin,Common Name
+89,20200813140240-305721104.14505,Estrildidae,Lonchura atricapilla,Chestnut Munia,CHMU,Widespread/Urban Bird,,Lonchura malacca,Scientific Name
+90,20200813140240-305721104.14505,Estrildidae,Lonchura atricapilla,Chestnut Munia,CHMU,Widespread/Urban Bird,,Chestnut Munia,Common Name
+91,20200813140240-816770374.774933,Estrildidae,Lonchura punctulata,Scaly-breasted Munia,SBMU,Widespread/Urban Bird,179619.0,Spotted Munia,Common Name
+92,20200813140240-816770374.774933,Estrildidae,Lonchura punctulata,Scaly-breasted Munia,SBMU,Widespread/Urban Bird,179619.0,Ricebird,Common Name
+93,20200813140240-816770374.774933,Estrildidae,Lonchura punctulata,Scaly-breasted Munia,SBMU,Widespread/Urban Bird,179619.0,Nutmeg Mannikin,Common Name
+94,20200813140240-169404625.892639,Estrildidae,Padda oryzivora,Java Sparrow,JASP,Widespread/Urban Bird,179621.0,Padda oryzivora,Scientific Name
+95,20200813140240-169404625.892639,Estrildidae,Padda oryzivora,Java Sparrow,JASP,Widespread/Urban Bird,179621.0,Lonchura oryzivora,Scientific Name
+96,20200813140240-532368838.787079,Fregatidae,Fregata minor palmerstoni,Great Frigatebird,GREF,Marine Bird,,GRFR,Species Code
+97,20200813140240-494415640.830994,Fringillidae (Carduelinae subfamily),Acanthis flammea,Common Redpoll,CORE,Open Country Bird,179230.0,Carduelis flammea,Scientific Name
+98,20200813140240-519212782.382965,Fringillidae (Carduelinae subfamily),Crithagra mozambica,Yellow-fronted Canary,YFCA,Widespread/Urban Bird,179559.0,Green Singing-Finch,Common Name
+99,20200813140240-871533870.697021,Fringillidae (Carduelinae subfamily),Haemorhous mexicanus,House Finch,HOFI,Widespread/Urban Bird,179191.0,Linnet,Common Name
+100,20200813140240-307122290.13443,Fringillidae (Carduelinae subfamily),Serinus canaria,Atlantic Canary,ATCA,Widespread/Urban Bird,179558.0,Common Canary,Common Name
+101,20200813140240-307122290.13443,Fringillidae (Carduelinae subfamily),Serinus canaria,Atlantic Canary,ATCA,Widespread/Urban Bird,179558.0,COCA,Species Code
+102,20200813140240-307122290.13443,Fringillidae (Carduelinae subfamily),Serinus canaria,Atlantic Canary,ATCA,Widespread/Urban Bird,179558.0,Canary,Common Name
+103,20200813140240-726368486.881256,Fringillidae (Drepanidinae subfamily Drepanidini tribe),Drepanis funerea,Black Mamo,BLMA,Forest Bird,179565.0,Perkins Mamo,Common Name
+104,20200813140240-106090843.677521,Fringillidae (Drepanidinae subfamily Drepanidini tribe),Palmeria dolei,Akohekohe,AKOH,Forest Bird,179587.0,CRHO,Species Code
+105,20200813140240-106090843.677521,Fringillidae (Drepanidinae subfamily Drepanidini tribe),Palmeria dolei,Akohekohe,AKOH,Forest Bird,179587.0,Crested Honeycreeper,Common Name
+106,20200813140240-359024584.293365,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Akialoa ellisiana,Oahu Akialoa,OAAK,Forest Bird,,Hemignathus ellisianus ellisianus,Scientific Name
+107,20200813140240-298784852.027893,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Akialoa lanaiensis,Maui-nui Akialoa,MNAK,Forest Bird,,Hemignathus ellisianus lanaiensis,Scientific Name
+108,20200813140240-298784852.027893,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Akialoa lanaiensis,Maui-nui Akialoa,MNAK,Forest Bird,,Lanai Akialoa,Common Name
+109,20200813140240-298784852.027893,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Akialoa lanaiensis,Maui-nui Akialoa,MNAK,Forest Bird,,LAAK,Species Code
+110,20200813140240-916336119.174957,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Akialoa obscura,Lesser Akialoa,LEAK,Forest Bird,179570.0,Hemignathus obscurus,Scientific Name
+111,20200813140240-546981692.314148,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Akialoa stejnegeri,Kauai Akialoa,KAAK,Forest Bird,,Hemignathus ellisianus procerus,Scientific Name
+112,20200813140240-989627242.088318,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Chlorodrepanis virens virens,Hawaii Amakihi,HAAM,Forest Bird,998205.0,Chlorodrepanis virens,Scientific Name
+113,20200813140240-9806036.94915771,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Chlorodrepanis virens wilsoni,Hawaii Amakihi,HAAM (Maui),Forest Bird,998204.0,Chlorodrepanis virens,Scientific Name
+114,20200813140240-9806036.94915771,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Chlorodrepanis virens wilsoni,Hawaii Amakihi,HAAM (Maui),Forest Bird,998204.0,Maui Amakihi,Common Name
+115,20200813140240-9806036.94915771,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Chlorodrepanis virens wilsoni,Hawaii Amakihi,HAAM (Maui),Forest Bird,998204.0,MAAM,Species Code
+116,20200813140240-868519425.392151,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Hemignathus affinis,Maui Nukupuu,MANU,Forest Bird,,Hemignathus lucidus affinis,Scientific Name
+117,20200813140240-580098927.021027,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Hemignathus hanapepe,Kauai Nukupuu,KANU,Forest Bird,,Hemignathus lucidus hanapepe,Scientific Name
+118,20200813140240-700392484.664917,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Hemignathus lucidus,Oahu Nukupuu,OANU,Forest Bird,,Hemignathus lucidus lucidus,Scientific Name
+119,20200813140240-599859952.926636,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Loxops caeruleirostris,Akekee,AKEK,Forest Bird,554341.0,Kauai Akepa,Common Name
+120,20200813140240-577929019.927979,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Loxops mana,Hawaii Creeper,HCRE,Forest Bird,179585.0,Olive Green Creeper,Common Name
+121,20200813140240-358102619.64798,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Loxops wolstenholmei,Oahu Akepa,OAKP,Forest Bird,,Loxops coccineus wolstenholmei,Scientific Name
+122,20200813140240-695740044.116974,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Magumma parva,Anianiau,ANIA,Forest Bird,179571.0,Lesser Amakihi,Common Name
+123,20200813140240-695740044.116974,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Magumma parva,Anianiau,ANIA,Forest Bird,179571.0,Hemignathus parvus,Scientific Name
+124,20200813140240-60996949.672699,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Oreomystis bairdi,Akikiki,AKIK,Forest Bird,179584.0,Kauai Creeper,Common Name
+125,20200813140240-243263900.279999,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Paroreomyza flammea,Kakawahie,KAKA,Forest Bird,179590.0,Molokai Creeper,Common Name
+126,20200813140240-481562137.60376,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Paroreomyza maculata,Oahu Alauahio,OAAL,Forest Bird,179589.0,Oahu Creeper,Common Name
+127,20200813140240-480916917.324066,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Paroreomyza montana newtoni,Maui Alauahio,MAAL,Forest Bird,,Maui Creeper,Common Name
+128,20200813140240-275678575.03891,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Viridonia sagittirostris,Greater Amakihi,GRAM,Forest Bird,179573.0,Green Solitaire,Common Name
+129,20200813140240-275678575.03891,Fringillidae (Drepanidinae subfamily Hemignathini tribe),Viridonia sagittirostris,Greater Amakihi,GRAM,Forest Bird,179573.0,Hemignathus sagittirostris,Scientific Name
+130,20200813140240-885499238.967896,Fringillidae (Drepanidinae subfamily Psittirostrini tribe),Pseudonestor xanthophrys,Maui Parrotbill,MAPA,Forest Bird,179593.0,Kiwikiu,Common Name
+131,20200813140240-664163231.84967,Gruidae,Antigone canadensis,Sandhill Crane,SACR,Open Country Bird,176177.0,Grus canadensis,Scientific Name
+132,20200813140240-433447718.6203,Hydrobatidae,Hydrobates castro,Band-rumped Storm Petrel,BSTP,Marine Bird,174636.0,BANP,Species Code
+133,20200813140240-433447718.6203,Hydrobatidae,Hydrobates castro,Band-rumped Storm Petrel,BSTP,Marine Bird,174636.0,Harcourt's Storm-Petrel,Common Name
+134,20200813140240-433447718.6203,Hydrobatidae,Hydrobates castro,Band-rumped Storm Petrel,BSTP,Marine Bird,174636.0,Hawaiian Storm-Petrel,Common Name
+135,20200813140240-433447718.6203,Hydrobatidae,Hydrobates castro,Band-rumped Storm Petrel,BSTP,Marine Bird,174636.0,Band-rumped Storm-Petrel,Common Name
+136,20200813140240-433447718.6203,Hydrobatidae,Hydrobates castro,Band-rumped Storm Petrel,BSTP,Marine Bird,174636.0,Oceanodroma castro,Scientific Name
+137,20200813140240-854835569.858551,Hydrobatidae,Hydrobates furcata,Fork-tailed Storm Petrel,FTSP,Marine Bird,174625.0,Oceanodroma furcata,Scientific Name
+138,20200813140240-854835569.858551,Hydrobatidae,Hydrobates furcata,Fork-tailed Storm Petrel,FTSP,Marine Bird,174625.0,Fork-tailed Storm-Petrel,Common Name
+139,20200813140240-149859845.638275,Hydrobatidae,Hydrobates leucorhoa,Leach's Storm Petrel,LHSP,Marine Bird,174628.0,Leach's Storm-Petrel,Common Name
+140,20200813140240-149859845.638275,Hydrobatidae,Hydrobates leucorhoa,Leach's Storm Petrel,LHSP,Marine Bird,174628.0,Oceanodroma leucorhoa,Scientific Name
+141,20200813140240-632272064.685822,Hydrobatidae,Hydrobates tristrami,Tristram's Storm Petrel,TRSP,Marine Bird,174641.0,Sooty Storm-Petrel,Common Name
+142,20200813140240-632272064.685822,Hydrobatidae,Hydrobates tristrami,Tristram's Storm Petrel,TRSP,Marine Bird,174641.0,Oceanodroma tristrami,Scientific Name
+143,20200813140240-632272064.685822,Hydrobatidae,Hydrobates tristrami,Tristram's Storm Petrel,TRSP,Marine Bird,174641.0,Tristram's Storm-Petrel,Common Name
+144,20200813140240-572213411.331177,Hydrobatidae,Oceanites oceanicus,Wilson's Storm Petrel,WISP,Marine Bird,174650.0,Wilson's Storm-Petrel,Common Name
+145,20200813140240-958833694.458008,Laridae,Anous cerulea,Blue Noddy,BLUN,Marine Bird,554390.0,Blue-gray Noddy,Common Name
+146,20200813140240-958833694.458008,Laridae,Anous cerulea,Blue Noddy,BLUN,Marine Bird,554390.0,Necker Island Tern,Common Name
+147,20200813140240-958833694.458008,Laridae,Anous cerulea,Blue Noddy,BLUN,Marine Bird,554390.0,Gray Noddy,Common Name
+148,20200813140240-958833694.458008,Laridae,Anous cerulea,Blue Noddy,BLUN,Marine Bird,554390.0,Procelsterna cerulea,Scientific Name
+149,20200813140240-958833694.458008,Laridae,Anous cerulea,Blue Noddy,BLUN,Marine Bird,554390.0,BGNO,Species Code
+150,20200813140240-352186679.840088,Laridae,Anous minutus,Black Noddy,BLNO,Marine Bird,176944.0,Hawaiian Noddy,Common Name
+151,20200813140240-352186679.840088,Laridae,Anous minutus,Black Noddy,BLNO,Marine Bird,176944.0,White-Capped Noddy,Common Name
+152,20200813140240-409051597.118378,Laridae,Anous stolidus,Brown Noddy,BRNO,Marine Bird,176941.0,Common Noddy,Common Name
+153,20200813140240-376813054.084778,Laridae,Chlidonias hybrida,Whiskered Tern,WHST,Marine Bird,554218.0,Chlidonias hybridus,Scientific Name
+154,20200813140240-376813054.084778,Laridae,Chlidonias hybrida,Whiskered Tern,WHST,Marine Bird,554218.0,WTER,Species Code
+155,20200813140240-879925608.634949,Laridae,Chroicocephalus philadelphia,Bonaparte's Gull,BOGU,Marine Bird,176839.0,Larus philadelphia,Scientific Name
+156,20200813140240-889593303.203583,Laridae,Chroicocephalus ridibundus,Black-headed Gull,BHGU,Marine Bird,176835.0,Larus ridibundus,Scientific Name
+157,20200813140240-394084393.978119,Laridae,Gelochelidon nilotica,Gull-billed Tern,GBTE,Marine Bird,176926.0,Sterna nilotica,Scientific Name
+158,20200813140240-659886538.982391,Laridae,Gygis alba rothschildi,White Tern,WHTT,Marine Bird,,Fairy-Tern,Common Name
+159,20200813140240-659886538.982391,Laridae,Gygis alba rothschildi,White Tern,WHTT,Marine Bird,,WHTE,Species Code
+160,20200813140240-659886538.982391,Laridae,Gygis alba rothschildi,White Tern,WHTT,Marine Bird,,Common Fairy-Tern,Common Name
+161,20200813140240-825443744.659424,Laridae,Hydroprogne caspia,Caspian Tern,CATE,Marine Bird,176924.0,Sterna caspia,Scientific Name
+162,20200813140240-999541819.095612,Laridae,Larus argentatus,European Herring Gull,HERG,Marine Bird,176824.0,Herring Gull,Common Name
+163,20200813140240-358874201.774597,Laridae,Larus canus,Common Gull,COGU,Marine Bird,176832.0,Mew Gull,Common Name
+164,20200813140240-358874201.774597,Laridae,Larus canus,Common Gull,COGU,Marine Bird,176832.0,MEGU,Species Code
+165,20200813140240-567133069.038391,Laridae,Larus schistisagus,Slaty-backed Gull,SBAG,Marine Bird,176816.0,SBGU,Species Code
+166,20200813140240-171311259.269714,Laridae,Leucophaeus atricilla,Laughing Gull,LAGU,Marine Bird,176837.0,Larus atricilla,Scientific Name
+167,20200813140240-58106780.0521851,Laridae,Leucophaeus pipixcan,Franklin's Gull,FRGU,Marine Bird,176838.0,Larus pipixcan,Scientific Name
+168,20200813140240-777162134.647369,Laridae,Onychoprion fuscatus,Sooty Tern,SOTE,Marine Bird,,Sterna fuscata oahuensis,Scientific Name
+169,20200813140240-336458563.804626,Laridae,Onychoprion lunatus,Spectacled Tern,SPTE,Marine Bird,176912.0,GRAT,Species Code
+170,20200813140240-336458563.804626,Laridae,Onychoprion lunatus,Spectacled Tern,SPTE,Marine Bird,176912.0,Gray-backed Tern,Common Name
+171,20200813140240-336458563.804626,Laridae,Onychoprion lunatus,Spectacled Tern,SPTE,Marine Bird,176912.0,Sterna lunata,Scientific Name
+172,20200813140240-121775448.322296,Laridae,Stercorarius maccormicki,South Polar Skua,SPSK,Marine Bird,176801.0,Catharacta maccormicki,Scientific Name
+173,20200813140240-246010303.497314,Laridae,Sternula albifrons,Little Tern,LITE,Marine Bird,176899.0,Sterna albifrons,Scientific Name
+174,20200813140240-21821320.0569153,Laridae,Sternula antillarum,Least Tern,LETE,Marine Bird,176923.0,Sterna antillarum,Scientific Name
+175,20200813140240-658487200.737,Laridae,Thalasseus bergii,Greater Crested Tern,GCTE,Marine Bird,176908.0,Great Crested Tern,Common Name
+176,20200813140240-658487200.737,Laridae,Thalasseus bergii,Greater Crested Tern,GCTE,Marine Bird,176908.0,Sterna bergii,Scientific Name
+177,20200813140240-191654741.764069,Laridae,Thalasseus sandvicensis,Sandwich Tern,SATE,Marine Bird,176927.0,Sterna sandvicensis,Scientific Name
+178,20200813140240-252339661.121368,Meliphagidae,Foulehaio carunculatus,Polynesian Wattled Honeyeater,POWH,Forest Bird,,Polynesian Wattled-Honeyeater,Common Name
+179,20200813140240-252339661.121368,Meliphagidae,Foulehaio carunculatus,Polynesian Wattled Honeyeater,POWH,Forest Bird,,Iao,Common Name
+180,20200813140240-252339661.121368,Meliphagidae,Foulehaio carunculatus,Polynesian Wattled Honeyeater,POWH,Forest Bird,,Wattled Honeyeater,Common Name
+181,20200813140240-477552711.963654,Meliphagidae,Gymnomyza samoensis,Mao,MAO,Forest Bird,178816.0,Mao,Common Name
+182,20200813140240-296122312.545776,Meliphagidae,Moho braccatus,Kauai Oo,KAOO,Forest Bird,178820.0,Ooaa,Common Name
+183,20200813140240-849608838.558197,Meliphagidae,Myzomela nigriventris,Samoan Myzomela,SAMY,Forest Bird,,Cardinal Myzomela,Common Name
+184,20200813140240-849608838.558197,Meliphagidae,Myzomela nigriventris,Samoan Myzomela,SAMY,Forest Bird,,CAMY,Species Code
+185,20200813140240-849608838.558197,Meliphagidae,Myzomela nigriventris,Samoan Myzomela,SAMY,Forest Bird,,Cardinal Honeyeater,Common Name
+186,20200813140240-849608838.558197,Meliphagidae,Myzomela nigriventris,Samoan Myzomela,SAMY,Forest Bird,,Segasegamau'u,Common Name
+187,20200813140240-849608838.558197,Meliphagidae,Myzomela nigriventris,Samoan Myzomela,SAMY,Forest Bird,,Myzomela cardinalis,Scientific Name
+188,20200813140240-802053570.747375,Monarchidae,Chasiempis ibidis,Oahu Elepaio,OAEL,Forest Bird,,Chasiempis sandwichensis ibidis,Scientific Name
+189,20200813140240-849981307.983398,Monarchidae,Chasiempis sandwichensis ,Hawaii Elepaio,HAEL,Forest Bird,,"Chasiempis sandwichensis sandwichensis, ridgwayi, bryani",Scientific Name
+190,20200813140240-871054172.515869,Monarchidae,Chasiempis sclateri,Kauai Elepaio,KAEL,Forest Bird,,Chasiempis sandwichensis sclateri,Scientific Name
+191,20200813140240-168473660.945892,Monarchidae,Clytorhynchus vitiensis powelli,Manu'a Shrikebill,MASH,Forest Bird,,Clytorhynchus vitiensis,Scientific Name
+192,20200813140240-168473660.945892,Monarchidae,Clytorhynchus vitiensis powelli,Manu'a Shrikebill,MASH,Forest Bird,,SASH,Species Code
+193,20200813140240-168473660.945892,Monarchidae,Clytorhynchus vitiensis powelli,Manu'a Shrikebill,MASH,Forest Bird,,Samoan Shrikebill,Common Name
+194,20200813140240-168473660.945892,Monarchidae,Clytorhynchus vitiensis powelli,Manu'a Shrikebill,MASH,Forest Bird,,Clytorhynchus powelli,Scientific Name
+195,20200813140240-168473660.945892,Monarchidae,Clytorhynchus vitiensis powelli,Manu'a Shrikebill,MASH,Forest Bird,,Fiji Shrikebill,Common Name
+196,20200813140240-838469684.123993,Motacillidae,Anthus rubescens,Buff-bellied Pipit,BBPI,Migratory Shorebird,554127.0,AMPI,Species Code
+197,20200813140240-838469684.123993,Motacillidae,Anthus rubescens,Buff-bellied Pipit,BBPI,Migratory Shorebird,554127.0,American Pipit,Common Name
+198,20200813140240-670191466.808319,Paridae,Sittiparus varius,Varied Tit,VATI,Widespread/Urban Bird,,Yamagara,Common Name
+199,20200813140240-670191466.808319,Paridae,Sittiparus varius,Varied Tit,VATI,Widespread/Urban Bird,,Japanese Tit,Common Name
+200,20200813140240-670191466.808319,Paridae,Sittiparus varius,Varied Tit,VATI,Widespread/Urban Bird,,Parus varius,Scientific Name
+201,20200813140240-221696615.219116,Passeridae,Passer domesticus,House Sparrow,HOSP,Widespread/Urban Bird,179628.0,English Sparrow,Common Name
+202,20200813140240-770453572.273254,Phalacrocoracidae,Urile pelagicus,Pelagic Cormorant,PECO,Marine Bird,174725.0,Phalacrocorax pelagicus,Scientific Name
+203,20200813140240-187470495.700836,Phasianidae,Gallus gallus,Red Junglefowl,REJU,Widespread/Urban Bird,176086.0,Moa,Common Name
+204,20200813140240-187470495.700836,Phasianidae,Gallus gallus,Red Junglefowl,REJU,Widespread/Urban Bird,176086.0,Chicken,Common Name
+205,20200813140240-757366120.815277,Phasianidae,Lophura leucomelanos,Kalij Pheasant,KAPH,Forest Bird,553882.0,Green Pheasant,Common Name
+206,20200813140240-757366120.815277,Phasianidae,Lophura leucomelanos,Kalij Pheasant,KAPH,Forest Bird,553882.0,Common Pheasant,Common Name
+207,20200813140240-189106702.804565,Phasianidae,Ortygornis pondicerianus,Grey Francolin,GRAF,Open Country Bird,175992.0,Gray Francolin,Common Name
+208,20200813140240-189106702.804565,Phasianidae,Ortygornis pondicerianus,Grey Francolin,GRAF,Open Country Bird,175992.0,Francolinus pondicerianus,Scientific Name
+209,20200813140240-361605405.807495,Phasianidae,Pavo cristatus,Indian Peafowl,INPE,Open Country Bird,176113.0,COPE,Species Code
+210,20200813140240-361605405.807495,Phasianidae,Pavo cristatus,Indian Peafowl,INPE,Open Country Bird,176113.0,Common Peafowl,Common Name
+211,20200813140240-414226233.959198,Phasianidae,Phasianus colchicus,Ring-necked Pheasant,RNEP,Open Country Bird,175905.0,RPHE,Species Code
+212,20200813140240-218846976.75705,Phasianidae,Pternistis erckelii,Erckel's Spurfowl,ERSP,Open Country Bird,175972.0,ERFR,Species Code
+213,20200813140240-218846976.75705,Phasianidae,Pternistis erckelii,Erckel's Spurfowl,ERSP,Open Country Bird,175972.0,Erckel's Francolin,Common Name
+214,20200813140240-218846976.75705,Phasianidae,Pternistis erckelii,Erckel's Spurfowl,ERSP,Open Country Bird,175972.0,Francolinus erckelii,Scientific Name
+215,20200813140240-928086817.264557,Podicipedidae,Podiceps nigricollis,Black-necked Grebe,BNGR,Wetland Bird,174485.0,Eared Grebe,Common Name
+216,20200813140240-928086817.264557,Podicipedidae,Podiceps nigricollis,Black-necked Grebe,BNGR,Wetland Bird,174485.0,EAGR,Species Code
+217,20200813140240-464043498.039246,Procellariidae,Ardenna grisea,Sooty Shearwater,SOSH,Marine Bird,174553.0,Puffinus griseus,Scientific Name
+218,20200813140240-734410107.135773,Procellariidae,Ardenna pacifica,Wedge-tailed Shearwater,WTSH,Marine Bird,174551.0,Puffinus pacificus chlororhynchus,Scientific Name
+219,20200813140240-478175163.269043,Procellariidae,Ardenna tenuirostris,Short-tailed Shearwater,STTS,Marine Bird,174554.0,SHOS,Species Code
+220,20200813140240-478175163.269043,Procellariidae,Ardenna tenuirostris,Short-tailed Shearwater,STTS,Marine Bird,174554.0,Puffinus tenuirostris,Scientific Name
+221,20200813140240-478175163.269043,Procellariidae,Ardenna tenuirostris,Short-tailed Shearwater,STTS,Marine Bird,174554.0,Slender-billed Shearwater,Common Name
+222,20200813140240-990604341.030121,Procellariidae,Pterodroma cookii,Cook's Petrel,COPE,Marine Bird,554395.0,Blue-footed Petrel,Common Name
+223,20200813140240-990604341.030121,Procellariidae,Pterodroma cookii,Cook's Petrel,COPE,Marine Bird,554395.0,COPT,Species Code
+224,20200813140240-341230511.665344,Procellariidae,Pterodroma heraldica,Herald Petrel,HEPE,Marine Bird,174570.0,Pterodroma arminjoniana,Scientific Name
+225,20200813140240-925527334.213257,Procellariidae,Pterodroma inexpectata,Mottled Petrel,MOPE,Marine Bird,174569.0,Scaled Petrel,Common Name
+226,20200813140240-798204660.415649,Procellariidae,Pterodroma sandwichensis,Hawaiian Petrel,HAPE,Marine Bird,202225.0,Pterodroma phaeopygia sandwichensis,Scientific Name
+227,20200813140240-798204660.415649,Procellariidae,Pterodroma sandwichensis,Hawaiian Petrel,HAPE,Marine Bird,202225.0,Hawaiian Petrel,Common Name
+228,20200813140240-798204660.415649,Procellariidae,Pterodroma sandwichensis,Hawaiian Petrel,HAPE,Marine Bird,202225.0,DRPE,Species Code
+229,20200813140240-798204660.415649,Procellariidae,Pterodroma sandwichensis,Hawaiian Petrel,HAPE,Marine Bird,202225.0,Dark-rumped Petrel,Common Name
+230,20200813140240-430223345.756531,Procellariidae,Puffinus assimilis,Little Shearwater,LISH,Marine Bird,174559.0,Allied Shearwater,Common Name
+231,20200813140240-955700814.723969,Procellariidae,Puffinus bulleri,Buller's Shearwater,BULS,Marine Bird,174552.0,Gray-backed Shearwater,Common Name
+232,20200813140240-955700814.723969,Procellariidae,Puffinus bulleri,Buller's Shearwater,BULS,Marine Bird,174552.0,New Zealand Shearwater,Common Name
+233,20200813140240-408501565.45639,Procellariidae,Puffinus carneipes,Flesh-footed Shearwater,FFSH,Marine Bird,174548.0,Pale-footed Shearwater,Common Name
+234,20200813140240-252809464.931488,Procellariidae,Puffinus nativitatis,Christmas Shearwater,CHSH,Marine Bird,174565.0,Christmas Island Shearwater,Common Name
+235,20200813140240-252809464.931488,Procellariidae,Puffinus nativitatis,Christmas Shearwater,CHSH,Marine Bird,174565.0,CISH,Species Code
+236,20200813140240-6724953.65142822,Procellariidae,Puffinus newelli,Newell’s Shearwater,NESH,Marine Bird,,Puffinus auricularis newelli,Scientific Name
+237,20200813140240-6724953.65142822,Procellariidae,Puffinus newelli,Newell’s Shearwater,NESH,Marine Bird,,Townsend's Shearwater,Common Name
+238,20200813140240-6724953.65142822,Procellariidae,Puffinus newelli,Newell’s Shearwater,NESH,Marine Bird,,TOSH,Species Code
+239,20200813140240-500558614.730835,Psittacidae,Vini australis,Blue-crowned Lorikeet,BCLO,Forest Bird,,Blue-crowned Lorikeet,Common Name
+240,20200813140240-593477308.750153,Rallidae,Fulica alai,Hawaiian Coot,HACO,Wetland Bird,554260.0,American Coot,Common Name
+241,20200813140240-913782417.7742,Rallidae,Gallinula galeata sandvicensis,Common Gallinule,COGA,Wetland Bird,176284.0,Hawaiian Gallinule,Common Name
+242,20200813140240-913782417.7742,Rallidae,Gallinula galeata sandvicensis,Common Gallinule,COGA,Wetland Bird,176284.0,Gallinula chloropus,Scientific Name
+243,20200813140240-913782417.7742,Rallidae,Gallinula galeata sandvicensis,Common Gallinule,COGA,Wetland Bird,176284.0,Common Moorhen,Common Name
+244,20200813140240-913782417.7742,Rallidae,Gallinula galeata sandvicensis,Common Gallinule,COGA,Wetland Bird,176284.0,COMO,Species Code
+245,20200813140240-632621347.904205,Rallidae,Hypotaenidia philippensis,Buff-banded Rail,BBRA,Forest Bird,,BARA,Species Code
+246,20200813140240-632621347.904205,Rallidae,Hypotaenidia philippensis,Buff-banded Rail,BBRA,Forest Bird,,Banded Rail,Common Name
+247,20200813140240-632621347.904205,Rallidae,Hypotaenidia philippensis,Buff-banded Rail,BBRA,Forest Bird,,Gallirallus philippensis,Scientific Name
+248,20200813140240-632621347.904205,Rallidae,Hypotaenidia philippensis,Buff-banded Rail,BBRA,Forest Bird,,Banded Rail,Common Name
+249,20200813140240-544837415.218353,Rallidae,Porphyrio melanotus,Australasian Swamphen,AUSW,Forest Bird,,Purple Swamphen,Common Name
+250,20200813140240-544837415.218353,Rallidae,Porphyrio melanotus,Australasian Swamphen,AUSW,Forest Bird,,PUSW,Species Code
+251,20200813140240-544837415.218353,Rallidae,Porphyrio melanotus,Australasian Swamphen,AUSW,Forest Bird,,Porphyrio porphyrio,Scientific Name
+252,20200813140240-544837415.218353,Rallidae,Porphyrio melanotus,Australasian Swamphen,AUSW,Forest Bird,,Western Swamphen,Common Name
+253,20200813140240-216646969.31839,Rallidae,Zapornia palmeri,Laysan Rail,LARA,Wetland Bird,176256.0,Porzana palmeri,Scientific Name
+254,20200813140240-94380795.955658,Rallidae,Zapornia sandwichensis,Hawaiian Rail,HARA,Wetland Bird,176257.0,Porzana sandwichensis,Scientific Name
+255,20200813140240-978126049.041748,Rallidae,Zapornia tabuensis,Spotless Crake,SPCR,Forest Bird,176252.0,Porzana tabuensis,Scientific Name
+256,20200813140240-978126049.041748,Rallidae,Zapornia tabuensis,Spotless Crake,SPCR,Forest Bird,176252.0,Spotless Crake,Common Name
+257,20200813140240-627237737.178802,Recurvirostridae,Himantopus mexicanus knudseni,Black-necked (Hawaiian) Stilt,HAST,Migratory Shorebird,,Black-necked Stilt,Common Name
+258,20200813140240-627237737.178802,Recurvirostridae,Himantopus mexicanus knudseni,Black-necked (Hawaiian) Stilt,HAST,Migratory Shorebird,,Hawaiian Stilt,Common Name
+259,20200813140240-627237737.178802,Recurvirostridae,Himantopus mexicanus knudseni,Black-necked (Hawaiian) Stilt,HAST,Migratory Shorebird,,BNST,Species Code
+260,20200813140240-788706898.68927,Scolopacidae,Actitis macularius,Spotted Sandpiper,SPSA,Migratory Shorebird,176612.0,Actitis macularia,Scientific Name
+261,20200813140240-866175711.154938,Scolopacidae,Calidris acuminata,Sharp-tailed Sandpiper,SPTS,Migratory Shorebird,176652.0,SHAS,Species Code
+262,20200813140240-610244154.930115,Scolopacidae,Calidris pugnax,Ruff,RUFF,Migratory Shorebird,176695.0,Philomachus pugnax,Scientific Name
+263,20200813140240-843659222.126007,Scolopacidae,Calidris subruficollis,Buff-breasted Sandpiper,BBSA,Migratory Shorebird,176684.0,Tryngites subruficollis,Scientific Name
+264,20200813140240-120618224.143982,Scolopacidae,Gallinago stenura,Pin-tailed Snipe,PTSN,Forest Bird,176710.0,PISN,Species Code
+265,20200813140240-833886265.7547,Scolopacidae,Limosa lapponica,Bar-tailed Godwit,BTGO,Migratory Shorebird,176687.0,BATG,Species Code
+266,20200813140240-429608345.031738,Scolopacidae,Numenius hudsonicus,Hudsonian Whimbrel,HUWH,Migratory Shorebird,176599.0,Numenius phaeopus,Scientific Name
+267,20200813140240-429608345.031738,Scolopacidae,Numenius hudsonicus,Hudsonian Whimbrel,HUWH,Migratory Shorebird,176599.0,Whimbrel,Common Name
+268,20200813140240-429608345.031738,Scolopacidae,Numenius hudsonicus,Hudsonian Whimbrel,HUWH,Migratory Shorebird,176599.0,WHIM,Species Code
+269,20200813140240-3828823.56643677,Scolopacidae,Numenius tahitiensis,Bristle-thighed Curlew,BTCU,Migratory Shorebird,176604.0,Bristle-thighed Curlew,Common Name
+270,20200813140240-384354770.183563,Scolopacidae,Phalaropus fulicarius,Red Phalarope,REPH,Migratory Shorebird,554376.0,Phalaropus fulicaria,Scientific Name
+271,20200813140240-993691921.234131,Scolopacidae,Tringa brevipes,Grey-tailed Tattler,GTTA,Migratory Shorebird,176636.0,Siberian Tattler,Common Name
+272,20200813140240-993691921.234131,Scolopacidae,Tringa brevipes,Grey-tailed Tattler,GTTA,Migratory Shorebird,176636.0,Heteroscelus brevipes,Scientific Name
+273,20200813140240-993691921.234131,Scolopacidae,Tringa brevipes,Grey-tailed Tattler,GTTA,Migratory Shorebird,176636.0,Gray-tailed Tattler,Common Name
+274,20200813140240-993691921.234131,Scolopacidae,Tringa brevipes,Grey-tailed Tattler,GTTA,Migratory Shorebird,176636.0,Polynesian Tattler,Common Name
+275,20200813140240-442714810.371399,Scolopacidae,Tringa incana,Wandering Tattler,WATA,Migratory Shorebird,176635.0,Heteroscelus incanus,Scientific Name
+276,20200813140240-116696000.099182,Scolopacidae,Tringa semipalmata,Willet,WILL,Migratory Shorebird,176638.0,Catoptrophorus semipalmatus,Scientific Name
+277,20200813140240-62670469.2840576,Strigidae,Asio flammeus,Pueo,SEOW,Forest Bird,177935.0,Short-eared Owl,Common Name
+278,20200813140240-566018521.785736,Sturnidae,Acridotheres fuscus,Jungle Mynah,JUMY,Widespread/Urban Bird,,Jungle Myna,Common Name
+279,20200813140240-778678774.833679,Sturnidae,Aplonis atrifusca,Samoan Starling,SAST,Forest Bird,,Samoan Starling,Common Name
+280,20200813140240-259472072.124481,Sturnidae,Aplonis tabuensis,Polynesian Starling,POST,Forest Bird,,Polynesion Starling,Common Name
+281,20200813140240-879405021.66748,Sturnidae,Sturnus vulgaris,Common Starling,COST,Widespread/Urban Bird,179637.0,European Starling,Common Name
+282,20200813140240-492901861.667633,Sulidae,Sula dactylatra personata,Masked Booby,MABO,Marine Bird,,Blue-faced Booby,Common Name
+283,20200813140240-492901861.667633,Sulidae,Sula dactylatra personata,Masked Booby,MABO,Marine Bird,,Masked Booby,Common Name
+284,20200813140240-166377544.403076,Sulidae,Sula leucogaster plotus,Brown Booby,BRBO,Marine Bird,,Brown Booby,Common Name
+285,20200813140240-236260056.495667,Sulidae,Sula sula rubripes,Red-footed Booby,RFBO,Marine Bird,,Red Footed Booby,Common Name
+286,20200813140240-777261734.008789,Sylviidae,Horornis diphone,Japanese Bush Warbler,JABW,Forest Bird,178672.0,Uguisu,Common Name
+287,20200813140240-777261734.008789,Sylviidae,Horornis diphone,Japanese Bush Warbler,JABW,Forest Bird,178672.0,Japanese Bush-Warbler,Common Name
+288,20200813140240-430560648.441315,Tamaliidae,Garrulax canorus,Chinese Hwamei,HWAM,Forest Bird,178834.0,Chinese Thrush,Common Name
+289,20200813140240-430560648.441315,Tamaliidae,Garrulax canorus,Chinese Hwamei,HWAM,Forest Bird,178834.0,MELT,Species Code
+290,20200813140240-430560648.441315,Tamaliidae,Garrulax canorus,Chinese Hwamei,HWAM,Forest Bird,178834.0,Hwamei,Common Name
+291,20200813140240-430560648.441315,Tamaliidae,Garrulax canorus,Chinese Hwamei,HWAM,Forest Bird,178834.0,Melodious Laughing-thrush,Common Name
+292,20200813140240-980662047.863007,Tamaliidae,Garrulax pectoralis,Greater Necklaced Laughingthrush,GNLA,Forest Bird,178835.0,Greater Necklaced Laughing-thrush,Common Name
+293,20200813140240-980662047.863007,Tamaliidae,Garrulax pectoralis,Greater Necklaced Laughingthrush,GNLA,Forest Bird,178835.0,GNLT,Species Code
+294,20200813140240-887522280.216217,Tamaliidae,Leiothrix lutea,Red-billed Leiothrix,RBLE,Forest Bird,178837.0,Penkin Nightingale,Common Name
+295,20200813140240-887522280.216217,Tamaliidae,Leiothrix lutea,Red-billed Leiothrix,RBLE,Forest Bird,178837.0,Japanese Hill-robin,Common Name
+296,20200813140240-34356594.0856934,Turdidae,Copsychus malabaricus,White-rumped Shama,WRSH,Forest Bird,179832.0,Shama Thrush,Common Name
+297,20200813140240-421145558.357239,Turdidae,Myadestes lanaiensis lanaiensis,Lanai Olomao,LAOL,Forest Bird,202332.0,Lanai Thrush,Common Name
+298,20200813140240-523617565.631866,Turdidae,Myadestes lanaiensis rutha,Molokai Olomao,MOOL,Forest Bird,202333.0,Molokai Thrush,Common Name
+299,20200813140240-764403402.805328,Turdidae,Myadestes lanaiensis woahensis,Oahu Olomao,OAOL,Forest Bird,554347.0,Myadestes woahensis,Scientific Name
+300,20200813140240-764403402.805328,Turdidae,Myadestes lanaiensis woahensis,Oahu Olomao,OAOL,Forest Bird,554347.0,Oahu Thrush,Common Name
+301,20200813140240-764403402.805328,Turdidae,Myadestes lanaiensis woahensis,Oahu Olomao,OAOL,Forest Bird,554347.0,AMAU,Species Code
+302,20200813140240-764403402.805328,Turdidae,Myadestes lanaiensis woahensis,Oahu Olomao,OAOL,Forest Bird,554347.0,Amaui,Common Name
+303,20200813140240-143419384.95636,Turdidae,Myadestes myadestinus,Kamao,KAMA,Forest Bird,179827.0,Large Kauai Thrush,Common Name
+304,20200813140240-930533409.118652,Turdidae,Myadestes obscurus,Omao,OMAO,Forest Bird,179829.0,Hawaii Thrush,Common Name
+305,20200813140240-739849328.994751,Turdidae,Myadestes palmeri,Puaiohi,PUAI,Forest Bird,179830.0,Small Kauai Thrush,Common Name
+306,20200813140240-66083729.2671204,Tytonidae,Tyto furcata,American Barn Owl,ABOW,Open Country Bird,177851.0,Barn Owl,Common Name
+307,20200813140240-66083729.2671204,Tytonidae,Tyto furcata,American Barn Owl,ABOW,Open Country Bird,177851.0,BNOW,Species Code
+308,20200813140240-66083729.2671204,Tytonidae,Tyto furcata,American Barn Owl,ABOW,Open Country Bird,177851.0,Tyto alba,Scientific Name
+309,20200813140240-66083729.2671204,Tytonidae,Tyto furcata,American Barn Owl,ABOW,Open Country Bird,177851.0,Western Barn Owl,Common Name
+310,20200813140240-941978275.775909,Zosteropidae,Zosterops japonicus,Warbling White-eye,WAWE,Widespread/Urban Bird,179912.0,JAWE,Species Code
+311,20200813140240-941978275.775909,Zosteropidae,Zosterops japonicus,Warbling White-eye,WAWE,Widespread/Urban Bird,179912.0,Mejiro,Common Name
+312,20200813140240-941978275.775909,Zosteropidae,Zosterops japonicus,Warbling White-eye,WAWE,Widespread/Urban Bird,179912.0,Japanese White-eye,Common Name
